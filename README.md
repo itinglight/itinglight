@@ -4,7 +4,7 @@ MocOS
 
 Bitcoin
 
-![](https://github-readme-stats.vercel.app/api?username=itinglight)
+![](https://github-readme-stats.vercel.app/api?username=itinglight&show_icons=true&theme=chartreuse-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itinglight)
 <!-- ![Metrics](https://github.com/itinglight/itinglight/blob/main/github-metrics.svg) -->
 
