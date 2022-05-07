@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-MocOS 
-
-Bitcoin
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6DD608&background=000000&center=true&vCenter=true&width=300&lines=ITingLight)](https://git.io/typing-svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=itinglight&show_icons=true&theme=chartreuse-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itinglight)
