@@ -6,7 +6,7 @@ Bitcoin
 
 ![](https://github-readme-stats.vercel.app/api?username=itinglight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itinglight)
-![Metrics](https://github.com/itinglight/itinglight/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/itinglight/itinglight/blob/main/github-metrics.svg) -->
 
 ### Skills
 
