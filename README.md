@@ -7,10 +7,10 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=81DEE5&center=true&vCenter=true&width=495&height=100&lines=ITingLight;Full-stack+Web+Developer)](https://git.io/typing-svg) -->
 </p>
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=itinglight&show_icons=true&theme=chartreuse-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=itinglight&show_icons=true&theme=chartreuse-dark">
 </p>
 <p align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itinglight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itinglight"> 
 </p>
 <!-- ![Metrics](https://github.com/itinglight/itinglight/blob/main/github-metrics.svg) -->
 
